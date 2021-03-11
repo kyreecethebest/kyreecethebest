@@ -86,3 +86,28 @@ footer {
   text-align: center;
   margin: 100px auto 50px;
 }
+/* GALLERY CSS*/
+
+
+
+.gallery-container {
+  margin: 20px 0;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+.gallery-container .image {
+  width: 500px;
+   border-radius: 50px; 
+  
+}
+
+.gallery-container .image:hover{
+  transform: scale(1.1);
+}
+
+
+
+
+
+
