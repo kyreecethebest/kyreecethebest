@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@600&family=Shadows+Into+Light&display=swap');
+
+.hover:hover{
+ transition: all .5s;
+  border-radius: 50px; 
+  margin: 10px;
+ 
+  width: 350px;
+  height: 100px;
+  transform: scale(1.3); 
+  
+}
+
+  
+
+
+
+body{ 
+  font-family: 'Shadows Into Light', cursive;
+background-image:url("https://www.pikpng.com/pngl/m/285-2856680_anime-guy-tall-anime-male-characters-clipart.png");
+  background-repeat:no-repeat;
+  background-size:cover;
+}
+
+.image {
+  margin: 100px;
+  
+  display: inline-block;
+}
+
+
+.center     {
+ text-align: center;
+}
+
+.talk {
+  margin: auto;
+}
+button {
+  font-family: 'Raleway', sans-serif;
+}
